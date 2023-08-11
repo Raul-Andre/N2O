@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# N2O
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Descripción
+
+El propósito de este proyecto es crear una estructura base de código para la implementación de esta página web. Esta es una gran oportunidad de poner en práctica todo lo que he aprendido hasta el momento en este certificado y en mi carrera en el TecMilenio en general. Por otro lado, es una necesidad que la empresa ha tenido desde hace tiempo, pero debido a que los trabajadores de esta empresa no tienen las habilidades de desarrollar una página web no se ha realizado. Este es un proyecto que ayudará mucho a la comunidad gamer en México y también le permitirá a la empresa Huum haciendo despliegue de sus fortalezas en la creación de diseño amigable para el usuario y estético.
+
+## React Instructions
 
 ## Available Scripts
 
