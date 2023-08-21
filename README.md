@@ -59,6 +59,7 @@ Para poder hacer modificaciones al proyecto, se debe solicitar el acceso en gith
 ## Estado Actual
 
 En este momento, el proyecto se encuentra en una etapa inicial. El código contiene el template básico de react typescript, así como unas cuantas modificaciones a la configuración en el front end. Por otro lado, se tiene el código para ejecutar un servidor con express en el backend y se ha creado una base de datos en Postgres con una tabla inicial para los jugadores y su información personal.
+Video de estado actual de la aplicación donde se muestra el front end en ejecución, el backend y la información actual en la base de datos: https://drive.google.com/file/d/1_6v1ntLDwPG9r0x9x5ADG4ZSNtYUBsCP/view
 
 ### Jira
 
